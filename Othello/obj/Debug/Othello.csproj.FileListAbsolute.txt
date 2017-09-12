@@ -1,0 +1,7 @@
+C:\Users\LaitinenP\source\repos\csharp-minimax\Othello\bin\Debug\Othello.exe.config
+C:\Users\LaitinenP\source\repos\csharp-minimax\Othello\bin\Debug\Othello.exe
+C:\Users\LaitinenP\source\repos\csharp-minimax\Othello\bin\Debug\Othello.pdb
+C:\Users\LaitinenP\source\repos\csharp-minimax\Othello\obj\Debug\Othello.csprojResolveAssemblyReference.cache
+C:\Users\LaitinenP\source\repos\csharp-minimax\Othello\obj\Debug\Othello.csproj.CoreCompileInputs.cache
+C:\Users\LaitinenP\source\repos\csharp-minimax\Othello\obj\Debug\Othello.exe
+C:\Users\LaitinenP\source\repos\csharp-minimax\Othello\obj\Debug\Othello.pdb
