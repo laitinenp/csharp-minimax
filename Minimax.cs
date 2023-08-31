@@ -39,10 +39,10 @@ namespace Minimax
         public const int MAX = 1;
         public const int MIN = 0;
 
-        public static Move ApplyMinimax(Node node, int depth)
+        public static Move? ApplyMinimax(Node node, int depth)
         {
             int value = int.MinValue;       // current max value
-            Move bestMove = null;
+            Move? bestMove = null;
 
             foreach (Node child in node.GetChildren())
             {
@@ -87,10 +87,10 @@ namespace Minimax
             return value;
         }
 
-        public static Move ApplyAlphabeta(Node node, int depth)
+        public static Move? ApplyAlphabeta(Node node, int depth)
         {
             int value = int.MinValue;       // current max value
-            Move bestMove = null;
+            Move? bestMove = null;
             int alpha = int.MinValue;
             int beta = int.MaxValue;
 

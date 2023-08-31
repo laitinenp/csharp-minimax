@@ -1,0 +1,11 @@
+C:\GitRepos\csharp-minimax\bin\Debug\net7.0\csharp-minimax.deps.json
+C:\GitRepos\csharp-minimax\bin\Debug\net7.0\csharp-minimax.dll
+C:\GitRepos\csharp-minimax\bin\Debug\net7.0\csharp-minimax.pdb
+C:\GitRepos\csharp-minimax\obj\Debug\net7.0\csharp-minimax.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitRepos\csharp-minimax\obj\Debug\net7.0\csharp-minimax.AssemblyInfoInputs.cache
+C:\GitRepos\csharp-minimax\obj\Debug\net7.0\csharp-minimax.AssemblyInfo.cs
+C:\GitRepos\csharp-minimax\obj\Debug\net7.0\csharp-minimax.csproj.CoreCompileInputs.cache
+C:\GitRepos\csharp-minimax\obj\Debug\net7.0\csharp-minimax.dll
+C:\GitRepos\csharp-minimax\obj\Debug\net7.0\refint\csharp-minimax.dll
+C:\GitRepos\csharp-minimax\obj\Debug\net7.0\csharp-minimax.pdb
+C:\GitRepos\csharp-minimax\obj\Debug\net7.0\ref\csharp-minimax.dll
