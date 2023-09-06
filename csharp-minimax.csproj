@@ -2,6 +2,14 @@
 
   <PropertyGroup>
     <TargetFramework>net7.0</TargetFramework>
+    <PackageId>Karelia.Examples.Minimax</PackageId>
+    <Authors>Petri Laitinen</Authors>
+    <Company>Karelia University of Applied Sciences</Company>
+    <Description>Library to implement games based on minimax and alpha-beta-pruning algorithms.</Description>
+    <PackageLicenseExpression>GPL-2.0-only</PackageLicenseExpression>
+    <PackageTags>Game theory, Minimax, Alpha-beta</PackageTags>
+    <RepositoryUrl>https://github.com/laitinenp/csharp-minimax</RepositoryUrl>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
     <RootNamespace>csharp_minimax</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
