@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fyu7S1W2nBJvHkKAnjGJcj/UWWOYBzdv8dJWeiNpD8/+iggkfuXU/kaBLFjrVwRykPxA8Gy2HCjk5tC9W6Ng8g==",
+  "dgSpecHash": "3gdZYZwRHIXy6hDIbe1eziTWskSBbAqJB64PaLg3X+fA+Cj8/PzrSHU84/lmBsxD46jar/7nieCBmT0ujMmb8w==",
   "success": true,
-  "projectFilePath": "C:\\GitRepos\\csharp-minimax\\csharp-minimax.csproj",
+  "projectFilePath": "C:\\Users\\LaitinenP\\Documents\\work\\opintojaksot\\sovellusarkkitehtuurit\\csharp-esimerkit\\ConsoleOthello\\csharp-minimax\\csharp-minimax.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

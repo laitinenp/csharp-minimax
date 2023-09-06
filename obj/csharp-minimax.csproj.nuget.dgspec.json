@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\GitRepos\\csharp-minimax\\csharp-minimax.csproj": {}
+    "C:\\Users\\LaitinenP\\Documents\\work\\opintojaksot\\sovellusarkkitehtuurit\\csharp-esimerkit\\ConsoleOthello\\csharp-minimax\\csharp-minimax.csproj": {}
   },
   "projects": {
-    "C:\\GitRepos\\csharp-minimax\\csharp-minimax.csproj": {
+    "C:\\Users\\LaitinenP\\Documents\\work\\opintojaksot\\sovellusarkkitehtuurit\\csharp-esimerkit\\ConsoleOthello\\csharp-minimax\\csharp-minimax.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GitRepos\\csharp-minimax\\csharp-minimax.csproj",
+        "projectUniqueName": "C:\\Users\\LaitinenP\\Documents\\work\\opintojaksot\\sovellusarkkitehtuurit\\csharp-esimerkit\\ConsoleOthello\\csharp-minimax\\csharp-minimax.csproj",
         "projectName": "csharp-minimax",
-        "projectPath": "C:\\GitRepos\\csharp-minimax\\csharp-minimax.csproj",
+        "projectPath": "C:\\Users\\LaitinenP\\Documents\\work\\opintojaksot\\sovellusarkkitehtuurit\\csharp-esimerkit\\ConsoleOthello\\csharp-minimax\\csharp-minimax.csproj",
         "packagesPath": "C:\\Users\\LaitinenP\\.nuget\\packages\\",
-        "outputPath": "C:\\GitRepos\\csharp-minimax\\obj\\",
+        "outputPath": "C:\\Users\\LaitinenP\\Documents\\work\\opintojaksot\\sovellusarkkitehtuurit\\csharp-esimerkit\\ConsoleOthello\\csharp-minimax\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LaitinenP\\AppData\\Roaming\\NuGet\\NuGet.Config"

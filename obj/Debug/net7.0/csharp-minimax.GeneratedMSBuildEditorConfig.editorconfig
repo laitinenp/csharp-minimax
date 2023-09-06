@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = csharp_minimax
-build_property.ProjectDir = C:\GitRepos\csharp-minimax\
+build_property.ProjectDir = C:\Users\LaitinenP\Documents\work\opintojaksot\sovellusarkkitehtuurit\csharp-esimerkit\ConsoleOthello\csharp-minimax\
