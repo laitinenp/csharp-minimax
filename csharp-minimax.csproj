@@ -13,10 +13,10 @@
     <RootNamespace>csharp_minimax</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <ItemGroup>
-      <None Include=".\README.md" Pack="true" PackagePath="\" />
-    </ItemGroup>
-
   </PropertyGroup>
+
+  <ItemGroup>
+      <None Include=".\README.md" Pack="true" PackagePath="\" />
+  </ItemGroup>
 
 </Project>
