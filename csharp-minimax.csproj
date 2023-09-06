@@ -9,10 +9,14 @@
     <PackageLicenseExpression>GPL-2.0-only</PackageLicenseExpression>
     <PackageTags>Game theory, Minimax, Alpha-beta</PackageTags>
     <RepositoryUrl>https://github.com/laitinenp/csharp-minimax</RepositoryUrl>
-    <PackageReadmeFile>README.md</PackageReadmeFile>
+    <PackageReadmeFile>.\README.md</PackageReadmeFile>
     <RootNamespace>csharp_minimax</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <ItemGroup>
+      <None Include=".\README.md" Pack="true" PackagePath="\" />
+    </ItemGroup>
+
   </PropertyGroup>
 
 </Project>
